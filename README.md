@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitajais20
-- 👀 I’m interested in the field of Robotics
+- 👀 I’m interested in the field of Machine Learning and love problem solving.
 - 🌱 I’m currently learning about various algorithms and concepts related to deep learning and reinforcement learning.
 - 💞️ I’m looking to collaborate on research projects related to deep learning and reinforcement learning in field of robotics.
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/ankita-jaiswal-4840611ab/ 
